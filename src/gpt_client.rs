@@ -32,7 +32,7 @@ You will help me find product information from this product website. From the pr
 - Return the most likely product
 - YOU ARE ONLY ALLOWED TO RESPOND USING JSON
 - Return a short and precise name
-- Give a description of the product using fewer than 10 words
+- Give a description of the product using fewer than 15 tokens
 - Return Unknown if there is not sufficient information
 - Use an end token after writing JSON
 
