@@ -47,7 +47,7 @@ Make a GET request to the /extract endpoint with the following query parameter:
 ## Example
 ### Request
 ```sh
-curl "http://localhost:3000/extract?url=https://www.example.com/product"
+curl "https://extract-product.shuttleapp.rs?url=https://www.example.com/product"
 ```
 ### Response
 ```json
